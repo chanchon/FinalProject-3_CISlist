@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21972785037",
+    "project_id": "cis-login-firebase",
+    "storage_bucket": "cis-login-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21972785037:android:58a4bfedfe49cce688cfc4",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.cislist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21972785037-n14ishksh466jfc9p8vug6vm1on44uj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.kku.cis.mobileapp.cislist",
+            "certificate_hash": "84baced78eaa2619600e33c7d845861e81b1e278"
+          }
+        },
+        {
+          "client_id": "21972785037-lqf8heg5toqkus8kjea0pildgtekl55m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqag59xEFS8q3UGbQK48axAKeP4_SsUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21972785037-lqf8heg5toqkus8kjea0pildgtekl55m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
